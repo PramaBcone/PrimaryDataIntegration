@@ -3,70 +3,112 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_completed_count</element>
             <position>0</position>
-            <sys_created_by>shreenag.araga</sys_created_by>
-            <sys_created_on>2023-02-20 11:29:04</sys_created_on>
-            <sys_id>6f7d2f7e87c5611063060e94dabb356d</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-23 09:46:50</sys_created_on>
+            <sys_id>eaa8aa324796a5105e5faca2026d43a5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Helper Fields for Parallel Events" display_value="Helper Fields for Parallel Events" name="sn_sap_data_int_integration_service_job_tracker" sys_domain="global" view="Default view">9549f79747c8a55002367562846d43f5</sys_ui_section>
-            <sys_updated_by>shreenag.araga</sys_updated_by>
-            <sys_updated_on>2023-02-20 11:29:04</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-23 09:46:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>completed_count</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-23 09:46:50</sys_created_on>
+            <sys_id>a2a8aa324796a5105e5faca2026d43a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Helper Fields for Parallel Events" display_value="Helper Fields for Parallel Events" name="sn_sap_data_int_integration_service_job_tracker" sys_domain="global" view="Default view">9549f79747c8a55002367562846d43f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-23 09:46:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
-            <sys_created_by>shreenag.araga</sys_created_by>
-            <sys_created_on>2023-02-20 11:29:04</sys_created_on>
-            <sys_id>277d2f7e87c5611063060e94dabb356e</sys_id>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-23 09:46:50</sys_created_on>
+            <sys_id>26a8aa324796a5105e5faca2026d43a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Helper Fields for Parallel Events" display_value="Helper Fields for Parallel Events" name="sn_sap_data_int_integration_service_job_tracker" sys_domain="global" view="Default view">9549f79747c8a55002367562846d43f5</sys_ui_section>
-            <sys_updated_by>shreenag.araga</sys_updated_by>
-            <sys_updated_on>2023-02-20 11:29:04</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-23 09:46:50</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_resume_count</element>
-            <position>2</position>
-            <sys_created_by>shreenag.araga</sys_created_by>
-            <sys_created_on>2023-02-20 11:29:04</sys_created_on>
-            <sys_id>a77d2f7e87c5611063060e94dabb356e</sys_id>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-23 09:46:50</sys_created_on>
+            <sys_id>a6a8aa324796a5105e5faca2026d43a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Helper Fields for Parallel Events" display_value="Helper Fields for Parallel Events" name="sn_sap_data_int_integration_service_job_tracker" sys_domain="global" view="Default view">9549f79747c8a55002367562846d43f5</sys_ui_section>
-            <sys_updated_by>shreenag.araga</sys_updated_by>
-            <sys_updated_on>2023-02-20 11:29:04</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-23 09:46:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resume_count</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-23 09:46:50</sys_created_on>
+            <sys_id>2aa8aa324796a5105e5faca2026d43a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Helper Fields for Parallel Events" display_value="Helper Fields for Parallel Events" name="sn_sap_data_int_integration_service_job_tracker" sys_domain="global" view="Default view">9549f79747c8a55002367562846d43f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-23 09:46:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>3</position>
-            <sys_created_by>shreenag.araga</sys_created_by>
-            <sys_created_on>2023-02-20 11:29:04</sys_created_on>
-            <sys_id>2b7d2f7e87c5611063060e94dabb356e</sys_id>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-23 09:46:50</sys_created_on>
+            <sys_id>aaa8aa324796a5105e5faca2026d43a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Helper Fields for Parallel Events" display_value="Helper Fields for Parallel Events" name="sn_sap_data_int_integration_service_job_tracker" sys_domain="global" view="Default view">9549f79747c8a55002367562846d43f5</sys_ui_section>
-            <sys_updated_by>shreenag.araga</sys_updated_by>
-            <sys_updated_on>2023-02-20 11:29:04</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-23 09:46:50</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_failed_batches</element>
-            <position>4</position>
-            <sys_created_by>shreenag.araga</sys_created_by>
-            <sys_created_on>2023-02-20 11:29:04</sys_created_on>
-            <sys_id>ab7d2f7e87c5611063060e94dabb356e</sys_id>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-23 09:46:50</sys_created_on>
+            <sys_id>2ea8aa324796a5105e5faca2026d43a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Helper Fields for Parallel Events" display_value="Helper Fields for Parallel Events" name="sn_sap_data_int_integration_service_job_tracker" sys_domain="global" view="Default view">9549f79747c8a55002367562846d43f5</sys_ui_section>
-            <sys_updated_by>shreenag.araga</sys_updated_by>
-            <sys_updated_on>2023-02-20 11:29:04</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-23 09:46:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>failed_batches</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-23 09:46:50</sys_created_on>
+            <sys_id>aea8aa324796a5105e5faca2026d43a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Helper Fields for Parallel Events" display_value="Helper Fields for Parallel Events" name="sn_sap_data_int_integration_service_job_tracker" sys_domain="global" view="Default view">9549f79747c8a55002367562846d43f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-23 09:46:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="transfer_payment_block_when_changing_payment_of_terms" label="Transfer payment block when changing payment of terms" language="en" table="sn_sap_data_int_pay_term_stg">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>transfer_payment_block_when_changing_payment_of_terms</element>
+            <help/>
+            <hint/>
+            <label>Transfer payment block when changing payment of terms</label>
+            <language>en</language>
+            <name>sn_sap_data_int_pay_term_stg</name>
+            <plural>Transfer payment block when changing payment of terms</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:12:15</sys_created_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Transfer payment block when changing payment of terms</sys_name>
+            <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+            <sys_update_name>sys_documentation_sn_sap_data_int_pay_term_stg_transfer_payment_block_when_changing_payment_of_terms_en</sys_update_name>
+            <sys_updated_by>shreenag.araga@snc</sys_updated_by>
+            <sys_updated_on>2023-04-21 18:01:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

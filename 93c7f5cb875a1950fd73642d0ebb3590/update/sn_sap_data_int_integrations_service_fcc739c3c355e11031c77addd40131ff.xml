@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_sap_data_int_integrations_service">
+    <sn_sap_data_int_integrations_service action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <erp_source_configuration display_value="SAP HANA">a506b543c355e11031c77addd40131e3</erp_source_configuration>
+        <flow display_value="Fetch plant addresses from SAP S4Hana">b57d6be19714a510f5be33271153af03</flow>
+        <import_set_tables>sn_sap_data_int_plant_add_stg</import_set_tables>
+        <name>Plant Address Master Data From SAP</name>
+        <order>110</order>
+        <properties/>
+        <sys_class_name>sn_sap_data_int_integrations_service</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-05 07:48:53</sys_created_on>
+        <sys_id>fcc739c3c355e11031c77addd40131ff</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Plant Address Master Data From SAP</sys_name>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_update_name>sn_sap_data_int_integrations_service_fcc739c3c355e11031c77addd40131ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-12 13:44:05</sys_updated_on>
+    </sn_sap_data_int_integrations_service>
+</record_update>

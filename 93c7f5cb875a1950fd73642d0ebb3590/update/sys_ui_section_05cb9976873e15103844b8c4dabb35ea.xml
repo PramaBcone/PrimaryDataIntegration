@@ -42,6 +42,734 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>client</element>
+            <position>3</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:09:17</sys_created_on>
+            <sys_id>d1de369bc33d2d5031c77addd40131d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:09:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>terms_of_payment_key</element>
+            <position>4</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:09:17</sys_created_on>
+            <sys_id>ddde369bc33d2d5031c77addd40131fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:09:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>day_limit</element>
+            <position>5</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:09:17</sys_created_on>
+            <sys_id>a5de769bc33d2d5031c77addd4013106</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:09:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_type</element>
+            <position>6</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:09:17</sys_created_on>
+            <sys_id>6dde769bc33d2d5031c77addd401310d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:09:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fixed_day</element>
+            <position>7</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:39:38</sys_created_on>
+            <sys_id>06c58313c37d2d5031c77addd401317d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:39:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>addition_months</element>
+            <position>8</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:39:38</sys_created_on>
+            <sys_id>06c5c713c37d2d5031c77addd40131dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:39:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>days_from_baseline_d1</element>
+            <position>9</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:39:39</sys_created_on>
+            <sys_id>8ec5c713c37d2d5031c77addd40131e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:39:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cash_discount_percen</element>
+            <position>10</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:39:39</sys_created_on>
+            <sys_id>5ac5c713c37d2d5031c77addd40131ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:39:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>days_from_baseline_d2</element>
+            <position>11</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:39:39</sys_created_on>
+            <sys_id>56c5c713c37d2d5031c77addd40131f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:39:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cash_discount_percentage_rate</element>
+            <position>12</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:39:39</sys_created_on>
+            <sys_id>92c5c713c37d2d5031c77addd40131fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:39:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>days_from_baseline_d3</element>
+            <position>13</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:39:39</sys_created_on>
+            <sys_id>12c50b13c37d2d5031c77addd4013104</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:39:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date_for_special1</element>
+            <position>14</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:27</sys_created_on>
+            <sys_id>6ca90317c37d2d5031c77addd401319a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_months1</element>
+            <position>15</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:28</sys_created_on>
+            <sys_id>a0a90317c37d2d5031c77addd40131a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date_for_special2</element>
+            <position>16</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:28</sys_created_on>
+            <sys_id>28a90317c37d2d5031c77addd40131d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_months2</element>
+            <position>17</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:28</sys_created_on>
+            <sys_id>a8a90317c37d2d5031c77addd40131d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date_for_special3</element>
+            <position>18</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:28</sys_created_on>
+            <sys_id>6ca90317c37d2d5031c77addd40131e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_months3</element>
+            <position>19</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:28</sys_created_on>
+            <sys_id>60a90317c37d2d5031c77addd40131e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>print_terms_of_payme</element>
+            <position>20</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:29</sys_created_on>
+            <sys_id>b4a90317c37d2d5031c77addd40131f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>block_key</element>
+            <position>21</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:29</sys_created_on>
+            <sys_id>3ca90317c37d2d5031c77addd40131f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>transf_pymt_block</element>
+            <position>22</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:29</sys_created_on>
+            <sys_id>f0a94317c37d2d5031c77addd4013102</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>standard_text</element>
+            <position>23</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:29</sys_created_on>
+            <sys_id>c9a94317c37d2d5031c77addd401310a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pymt_meth</element>
+            <position>24</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:30</sys_created_on>
+            <sys_id>05a94317c37d2d5031c77addd4013113</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>transf_pymt_method</element>
+            <position>25</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:30</sys_created_on>
+            <sys_id>85a94317c37d2d5031c77addd401311b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>acct_type</element>
+            <position>26</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:31</sys_created_on>
+            <sys_id>59a94317c37d2d5031c77addd4013123</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>installment_pmt</element>
+            <position>27</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:31</sys_created_on>
+            <sys_id>5da94317c37d2d5031c77addd401312b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rec_ent_fm_mster</element>
+            <position>28</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:32</sys_created_on>
+            <sys_id>69a94317c37d2d5031c77addd4013140</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hide_entry</element>
+            <position>29</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:33</sys_created_on>
+            <sys_id>75a94317c37d2d5031c77addd4013162</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>own_explanatn</element>
+            <position>30</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-03-31 04:56:33</sys_created_on>
+            <sys_id>35a94317c37d2d5031c77addd401316b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-03-31 04:56:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>calendar_day_for_the_baseline_date_for_payment</element>
+            <position>31</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:06:39</sys_created_on>
+            <sys_id>16d2f5c98306a11067a211b6feaad326</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:06:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_months</element>
+            <position>32</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:06:41</sys_created_on>
+            <sys_id>7ad2750d8306a11067a211b6feaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:06:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>print_payment_of_terms_in_rv_papers</element>
+            <position>33</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:06:45</sys_created_on>
+            <sys_id>ebd2750d8306a11067a211b6feaad39a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:06:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>payment_block</element>
+            <position>34</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:11:46</sys_created_on>
+            <sys_id>4904b14d8306a11067a211b6feaad3ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:11:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>transfer_payment_block_when_changing_payment_of_terms</element>
+            <position>35</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:11:48</sys_created_on>
+            <sys_id>2904754d8306a11067a211b6feaad389</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:11:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number_of_the_standard_text</element>
+            <position>36</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:11:50</sys_created_on>
+            <sys_id>ca04754d8306a11067a211b6feaad392</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:11:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>payment_method</element>
+            <position>37</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:11:53</sys_created_on>
+            <sys_id>fe04754d8306a11067a211b6feaad39b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:11:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>transfer_payment_method_when_changing_payment_of_terms</element>
+            <position>38</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:11:55</sys_created_on>
+            <sys_id>eb04754d8306a11067a211b6feaad3ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account_type</element>
+            <position>39</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:11:58</sys_created_on>
+            <sys_id>8814754d8306a11067a211b6feaad3e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:11:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>single_character_flag</element>
+            <position>40</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:11:59</sys_created_on>
+            <sys_id>dc14b54d8306a11067a211b6feaad302</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:11:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>recurring_entries_add_payment_of_terms_from_master_record</element>
+            <position>41</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:12:03</sys_created_on>
+            <sys_id>d514b54d8306a11067a211b6feaad30c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:12:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hide_entry_in_value_help</element>
+            <position>42</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:12:06</sys_created_on>
+            <sys_id>0614b54d8306a11067a211b6feaad360</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:12:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>days_from_baseline_date_for_payment_1</element>
+            <position>43</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:26:47</sys_created_on>
+            <sys_id>0577f1018346a11067a211b6feaad349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:26:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>days_from_baseline_date_for_payment_2</element>
+            <position>44</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:26:49</sys_created_on>
+            <sys_id>a577f1018346a11067a211b6feaad354</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:26:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>days_from_baseline_date_for_payment_3</element>
+            <position>45</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:26:51</sys_created_on>
+            <sys_id>5a77f1018346a11067a211b6feaad383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:26:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cash_discount_percentage_rate_1</element>
+            <position>46</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:26:54</sys_created_on>
+            <sys_id>fe77f1018346a11067a211b6feaad399</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:26:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cash_discount_percentage_rate_2</element>
+            <position>47</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:26:55</sys_created_on>
+            <sys_id>0777f1018346a11067a211b6feaad3c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:26:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date_for_special_condition_1</element>
+            <position>48</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:26:56</sys_created_on>
+            <sys_id>5777f1018346a11067a211b6feaad3d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:26:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date_for_special_condition_2</element>
+            <position>49</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:26:58</sys_created_on>
+            <sys_id>7777f1018346a11067a211b6feaad3dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:26:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date_for_special_condition_3</element>
+            <position>50</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:27:00</sys_created_on>
+            <sys_id>148735018346a11067a211b6feaad319</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:27:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_months_for_special_condition_1</element>
+            <position>51</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:27:03</sys_created_on>
+            <sys_id>388735018346a11067a211b6feaad323</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:27:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_months_for_special_condition_2</element>
+            <position>52</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:27:04</sys_created_on>
+            <sys_id>918735018346a11067a211b6feaad353</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:27:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_months_for_special_condition_3</element>
+            <position>53</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:27:05</sys_created_on>
+            <sys_id>258735018346a11067a211b6feaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-05 09:27:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>own_explanation</element>
+            <position>54</position>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-06 08:28:37</sys_created_on>
+            <sys_id>72b3be5dc38ea11031c77addd4013186</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_pay_term_stg" sys_domain="global" view="Default view">05cb9976873e15103844b8c4dabb35ea</sys_ui_section>
+            <sys_updated_by>Krishna</sys_updated_by>
+            <sys_updated_on>2023-04-06 08:28:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

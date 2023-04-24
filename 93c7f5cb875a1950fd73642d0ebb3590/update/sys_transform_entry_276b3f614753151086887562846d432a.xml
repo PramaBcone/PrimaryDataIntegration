@@ -9,10 +9,10 @@
         <reference_value_field>sys_id</reference_value_field>
         <source_field>[Script]</source_field>
         <source_script><![CDATA[answer = (function transformEntry(source) {
-    var street = source.u_street_and_house_number;
-    var city = source.u_city;
-    var state = source.u_region_state_province_county;
-    var zip = source.u_postal_code;
+    var street = source.street_and_house_number;
+    var city = source.city;
+    var state = source.region_state_province_county;
+    var zip = source.postal_code;
 
     var name = [street, city, state].filter(function(val) {
         return val != null ? (val) : "";

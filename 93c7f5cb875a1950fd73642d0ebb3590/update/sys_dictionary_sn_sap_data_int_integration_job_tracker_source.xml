@@ -35,7 +35,7 @@
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="">sn_fcms_intg_source</reference>
+        <reference display_value="" name="sn_fcms_intg_source">sn_fcms_intg_source</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>

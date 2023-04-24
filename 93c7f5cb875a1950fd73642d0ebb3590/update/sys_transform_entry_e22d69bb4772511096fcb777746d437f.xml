@@ -7,7 +7,7 @@
         <date_format>yyyy-MM-dd HH:mm:ss</date_format>
         <map display_value="Transform Ledger Accounts">78ab653b4772511096fcb777746d4320</map>
         <reference_value_field>erp_company_code</reference_value_field>
-        <source_field>u_company_code</source_field>
+        <source_field>company_code</source_field>
         <source_script><![CDATA[answer = (function transformEntry(source) {
 
 	// Add your code here
@@ -20,7 +20,7 @@
         <sys_created_on>2022-11-03 08:21:33</sys_created_on>
         <sys_id>e22d69bb4772511096fcb777746d437f</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>u_company_code</sys_name>
+        <sys_name>company_code</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>

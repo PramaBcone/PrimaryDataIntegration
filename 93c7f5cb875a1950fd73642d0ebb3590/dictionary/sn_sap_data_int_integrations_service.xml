@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="update_synch=true" db_object_id="0a6e71b9c3d1e11068187addd401310c" extends="sys_metadata" label="Integration Service" max_length="40" name="sn_sap_data_int_integrations_service" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Active" max_length="40" name="active" type="boolean"/>
-        <element label="ERP Source configuration" max_length="32" name="erp_source_configuration" reference="sn_fcms_intg_source" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Erp source configuration" max_length="32" name="erp_source_configuration" reference="sn_fcms_intg_source" type="reference"/>
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Flow" max_length="32" name="flow" reference="sys_hub_flow" type="reference"/>
         <element attributes="edge_encryption_enabled=true,no_sort=true,slushbucket_ref_no_expand=true" label="Import set tables" max_length="4000" name="import_set_tables" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>

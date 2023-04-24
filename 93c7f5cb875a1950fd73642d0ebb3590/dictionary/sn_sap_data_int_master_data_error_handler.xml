@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="d9ed353a87746510a3e3cbb4dabb35a8" label="Master Data Error Handler" max_length="40" name="sn_sap_data_int_master_data_error_handler" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Error Message" max_length="400" name="error_message" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Error message" max_length="400" name="error_message" type="journal"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Event" max_length="40" name="event" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Create" sequence="100" value="create"/>
                 <element inactive_on_update="false" label="Update" sequence="200" value="update"/>
             </choice>
         </element>
-        <element label="Flow Execution ID" max_length="40" name="flow_execution_id" type="string"/>
+        <element label="Flow execution ID" max_length="40" name="flow_execution_id" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" dependent="table" dependent_on_field="table" label="Record ID" max_length="32" name="record_id" type="document_id" use_dependent_field="true"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="state" type="choice">

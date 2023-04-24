@@ -27,11 +27,11 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="Transform ended at" max_length="40" name="transform_ended_at" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Transform started at" max_length="40" name="transform_started_at" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" label="Completed Batches Count" max_length="5000" name="u_batch_count" read_only="true" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Total Flows Completed" max_length="40" name="u_completed_count" read_only="true" type="integer"/>
-        <element attributes="edge_encryption_enabled=true" label="Failed Batches Information" max_length="4000" name="u_failed_batches" read_only="true" type="simple_name_values"/>
-        <element label="Helper Notes" max_length="4000" name="u_helper_notes_field" read_only="true" type="journal"/>
-        <element attributes="edge_encryption_enabled=true" label="Batch Resume Counter" max_length="40" name="u_resume_count" read_only="true" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Completed batches count" max_length="5000" name="batch_count" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Total flows completed" max_length="40" name="completed_count" read_only="true" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Failed batches information" max_length="4000" name="failed_batches" read_only="true" type="simple_name_values"/>
+        <element label="Helper notes" max_length="4000" name="helper_notes_field" read_only="true" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Batch resume counter" max_length="40" name="resume_count" read_only="true" type="integer"/>
         <index name="index">
             <element name="integration_service"/>
         </index>

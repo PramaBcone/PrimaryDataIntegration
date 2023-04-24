@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_sap_data_int_integrations_service">
+    <sn_sap_data_int_integrations_service action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <erp_source_configuration display_value="SAP ECC">b8277d61738213008f12d9be2bf6a784</erp_source_configuration>
+        <flow display_value="Fetch legal entities from SAP ECC">2b619fd0472add1086887562846d437e</flow>
+        <import_set_tables>sn_sap_data_int_le_stg</import_set_tables>
+        <name>Legal Entity</name>
+        <order>40</order>
+        <properties>{"query":"BUKRS = '1000'"}</properties>
+        <sys_class_name>sn_sap_data_int_integrations_service</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-05 07:23:11</sys_created_on>
+        <sys_id>fcc1350fc315e11031c77addd40131b6</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>Legal Entity</sys_name>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_update_name>sn_sap_data_int_integrations_service_fcc1350fc315e11031c77addd40131b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-12 13:38:40</sys_updated_on>
+    </sn_sap_data_int_integrations_service>
+</record_update>

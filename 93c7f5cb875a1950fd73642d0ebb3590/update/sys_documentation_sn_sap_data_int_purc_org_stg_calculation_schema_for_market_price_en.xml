@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="calculation_schema_for_market_price" label="Calculation Schema for Market Price" language="en" table="sn_sap_data_int_purc_org_stg">
+    <sys_documentation element="calculation_schema_for_market_price" label="Calculation schema for market price" language="en" table="sn_sap_data_int_purc_org_stg">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>calculation_schema_for_market_price</element>
             <help/>
             <hint/>
-            <label>Calculation Schema for Market Price</label>
+            <label>Calculation schema for market price</label>
             <language>en</language>
             <name>sn_sap_data_int_purc_org_stg</name>
-            <plural>Calculation Schema for Market Prices</plural>
+            <plural>Calculation schema for market prices</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-03-01 11:05:24</sys_created_on>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Calculation Schema for Market Price</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Calculation schema for market price</sys_name>
             <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
             <sys_policy/>
             <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
             <sys_update_name>sys_documentation_sn_sap_data_int_purc_org_stg_calculation_schema_for_market_price_en</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-01 11:05:24</sys_updated_on>
+            <sys_updated_by>shreenag.araga@snc</sys_updated_by>
+            <sys_updated_on>2023-04-21 18:01:13</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

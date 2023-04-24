@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="INSERT_OR_UPDATE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="Payment Terms">f597713987be111093264085dabb358a</map>
+        <reference_value_field/>
+        <source_field>own_explanation</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>sn_sap_data_int_pay_term_stg</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>Krishna</sys_created_by>
+        <sys_created_on>2023-04-06 09:56:43</sys_created_on>
+        <sys_id>0fc783d1834ae11067a211b6feaad392</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>own_explanation</sys_name>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_update_name>sys_transform_entry_0fc783d1834ae11067a211b6feaad392</sys_update_name>
+        <sys_updated_by>Krishna</sys_updated_by>
+        <sys_updated_on>2023-04-06 09:56:43</sys_updated_on>
+        <target_field>short_description</target_field>
+        <target_table>sn_shop_payment_term</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+</record_update>

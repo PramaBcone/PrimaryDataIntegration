@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD5445b901eb4a2910476e300499e7d5ca</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>93c7f5cb875a1950fd73642d0ebb3590</scope_name>
+        <serialized_content>{"FlowDesigner:FD5445b901eb4a2910476e300499e7d5ca":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD5445b901eb4a2910476e300499e7d5ca.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Convert Array\",\"mandatory\":\"false\",\"child_name\":\"convert_array_child0\",\"uiUniqueId\":\"a1f8fc69-849c-4237-90c8-eabc1ad0343a\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FD5445b901eb4a2910476e300499e7d5ca\",\"child_label\":\"Convert Array_child0\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.string\",\"child_type\":\"string\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"d8edbe31-016f-4253-b474-8f9479d1c7ab\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2023-04-05 09:17:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1845b901834a29102aac11b6feaad3ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD5445b901eb4a2910476e300499e7d5ca</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_update_name>sys_complex_object_1845b901834a29102aac11b6feaad3ca</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2023-04-05 09:17:10</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

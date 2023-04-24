@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_sap_data_int_integrations_service">
+    <sn_sap_data_int_integrations_service action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <erp_source_configuration display_value="SAP ECC">b8277d61738213008f12d9be2bf6a784</erp_source_configuration>
+        <flow display_value="Fetch services from SAP ECC">a27a63bd47d3551096fcb777746d43d5</flow>
+        <import_set_tables>sn_psm_sap_int_services_stg</import_set_tables>
+        <name>Services</name>
+        <order>55</order>
+        <properties>{"query":"ASNUM = 'PLUMBING'"}</properties>
+        <sys_class_name>sn_sap_data_int_integrations_service</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-28 12:20:30</sys_created_on>
+        <sys_id>e342dda68735ad10999da7d73cbb35a1</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Services</sys_name>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_update_name>sn_sap_data_int_integrations_service_e342dda68735ad10999da7d73cbb35a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-12 13:38:40</sys_updated_on>
+    </sn_sap_data_int_integrations_service>
+</record_update>

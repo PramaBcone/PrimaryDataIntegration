@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="print_payment_of_terms_in_rv_papers" label="Print payment of terms in rv papers" language="en" table="sn_sap_data_int_pay_term_stg">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>print_payment_of_terms_in_rv_papers</element>
+            <help/>
+            <hint/>
+            <label>Print payment of terms in rv papers</label>
+            <language>en</language>
+            <name>sn_sap_data_int_pay_term_stg</name>
+            <plural>Print payment of terms in rv papers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Krishna</sys_created_by>
+            <sys_created_on>2023-04-05 09:06:52</sys_created_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Print payment of terms in rv papers</sys_name>
+            <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+            <sys_update_name>sys_documentation_sn_sap_data_int_pay_term_stg_print_payment_of_terms_in_rv_papers_en</sys_update_name>
+            <sys_updated_by>shreenag.araga@snc</sys_updated_by>
+            <sys_updated_on>2023-04-21 18:01:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
