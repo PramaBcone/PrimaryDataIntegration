@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="account_number_of_the_alternative_payee_fm" label="Account number of the alternative payee fm " language="en" table="sn_sap_data_int_supplier_stg">
+    <sys_documentation element="account_number_of_the_alternative_payee_1" label="Account number of the alternative payee 1" language="en" table="sn_sap_data_int_supplier_stg">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>account_number_of_the_alternative_payee_fm</element>
+            <element>account_number_of_the_alternative_payee_1</element>
             <help/>
             <hint/>
-            <label>Account number of the alternative payee fm </label>
+            <label>Account number of the alternative payee 1</label>
             <language>en</language>
             <name>sn_sap_data_int_supplier_stg</name>
-            <plural>Account number of the alternative payee fm s</plural>
+            <plural>Account number of the alternative payee 1s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-03-01 11:05:38</sys_created_on>
             <sys_mod_count>1</sys_mod_count>
-            <sys_name>Account number of the alternative payee fm </sys_name>
+            <sys_name>Account number of the alternative payee 1</sys_name>
             <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
             <sys_policy/>
             <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-            <sys_update_name>sys_documentation_sn_sap_data_int_supplier_stg_account_number_of_the_alternative_payee_fm_en</sys_update_name>
+            <sys_update_name>sys_documentation_sn_sap_data_int_supplier_stg_account_number_of_the_alternative_payee_1en</sys_update_name>
             <sys_updated_by>shreenag.araga@snc</sys_updated_by>
             <sys_updated_on>2023-04-21 18:01:16</sys_updated_on>
             <url/>

@@ -141,7 +141,7 @@
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_po_box</element>
+            <element>u_post_office_box</element>
             <position>10</position>
             <sys_created_by>bcone</sys_created_by>
             <sys_created_on>2022-10-13 03:19:54</sys_created_on>
@@ -977,6 +977,62 @@
             <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_plant_add_stg" sys_domain="global" view="Default view">92de9845476ed15096fcb777746d4346</sys_ui_section>
             <sys_updated_by>Priyanshi</sys_updated_by>
             <sys_updated_on>2022-11-21 12:22:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>batch_records_type_of_dms_used</element>
+            <position>70</position>
+            <sys_created_by>shreenag.araga@snc</sys_created_by>
+            <sys_created_on>2023-04-24 17:47:58</sys_created_on>
+            <sys_id>4c60ad9fc312e150b6e89a0705013141</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_plant_add_stg" sys_domain="global" view="Default view">92de9845476ed15096fcb777746d4346</sys_ui_section>
+            <sys_updated_by>shreenag.araga@snc</sys_updated_by>
+            <sys_updated_on>2023-04-24 17:47:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>node_types_supply_chain_network</element>
+            <position>71</position>
+            <sys_created_by>shreenag.araga@snc</sys_created_by>
+            <sys_created_on>2023-04-24 17:48:45</sys_created_on>
+            <sys_id>1b80a1dfc312e150b6e89a07050131b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_plant_add_stg" sys_domain="global" view="Default view">92de9845476ed15096fcb777746d4346</sys_ui_section>
+            <sys_updated_by>shreenag.araga@snc</sys_updated_by>
+            <sys_updated_on>2023-04-24 17:48:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tax_indicators_plant_purchasing</element>
+            <position>72</position>
+            <sys_created_by>shreenag.araga@snc</sys_created_by>
+            <sys_created_on>2023-04-24 17:49:35</sys_created_on>
+            <sys_id>f7b065dfc312e150b6e89a07050131b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_plant_add_stg" sys_domain="global" view="Default view">92de9845476ed15096fcb777746d4346</sys_ui_section>
+            <sys_updated_by>shreenag.araga@snc</sys_updated_by>
+            <sys_updated_on>2023-04-24 17:49:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>shipping_point_receivings_point</element>
+            <position>73</position>
+            <sys_created_by>shreenag.araga@snc</sys_created_by>
+            <sys_created_on>2023-04-24 18:01:33</sys_created_on>
+            <sys_id>fa73ad53c352e150b6e89a0705013149</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_plant_add_stg" sys_domain="global" view="Default view">92de9845476ed15096fcb777746d4346</sys_ui_section>
+            <sys_updated_by>shreenag.araga@snc</sys_updated_by>
+            <sys_updated_on>2023-04-24 18:01:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -6,8 +6,8 @@
     <sys_decision_question action="INSERT_OR_UPDATE">
         <active>true</active>
         <answer>feebdde387c82550a3e3cbb4dabb359f</answer>
-        <condition table="var__m_sys_decision_input_e90322b38711a11046a6322e0ebb352d">u_type=supplier^u_event=update^EQ<item display_value="Supplier" endquery="false" field="u_type" goto="false" newquery="false" operator="=" or="false" value="supplier"/>
-            <item display_value="Update" endquery="false" field="u_event" goto="false" newquery="false" operator="=" or="false" value="update"/>
+        <condition table="var__m_sys_decision_input_e90322b38711a11046a6322e0ebb352d">type=supplier^event=update^EQ<item display_value="Supplier" endquery="false" field="type" goto="false" newquery="false" operator="=" or="false" value="supplier"/>
+            <item display_value="Update" endquery="false" field="event" goto="false" newquery="false" operator="=" or="false" value="update"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <decision_table display_value="Master Data Policy">e90322b38711a11046a6322e0ebb352d</decision_table>

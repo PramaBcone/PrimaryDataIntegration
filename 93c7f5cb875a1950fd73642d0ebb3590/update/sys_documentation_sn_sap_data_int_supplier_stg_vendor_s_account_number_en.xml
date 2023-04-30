@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="vendor_s_account_number" label="Vendor s account number" language="en" table="sn_sap_data_int_supplier_stg">
+    <sys_documentation element="vendor_account_number" label="Vendor account number" language="en" table="sn_sap_data_int_supplier_stg">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>vendor_s_account_number</element>
+            <element>vendor_account_number</element>
             <help/>
             <hint/>
-            <label>Vendor s account number</label>
+            <label>Vendor account number</label>
             <language>en</language>
             <name>sn_sap_data_int_supplier_stg</name>
-            <plural>Vendor s account numbers</plural>
+            <plural>Vendor account numbers</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-03-01 11:05:52</sys_created_on>
             <sys_mod_count>1</sys_mod_count>
-            <sys_name>Vendor s account number</sys_name>
+            <sys_name>Vendor account number</sys_name>
             <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
             <sys_policy/>
             <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-            <sys_update_name>sys_documentation_sn_sap_data_int_supplier_stg_vendor_s_account_number_en</sys_update_name>
+            <sys_update_name>sys_documentation_sn_sap_data_int_supplier_stg_vendor_account_number_en</sys_update_name>
             <sys_updated_by>shreenag.araga@snc</sys_updated_by>
             <sys_updated_on>2023-04-21 18:01:58</sys_updated_on>
             <url/>

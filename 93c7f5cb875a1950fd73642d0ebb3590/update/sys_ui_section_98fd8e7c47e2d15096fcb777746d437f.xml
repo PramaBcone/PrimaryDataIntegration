@@ -169,7 +169,7 @@
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_date_on_which_the_record_was_created</element>
+            <element>u_vendor_created_date</element>
             <position>12</position>
             <sys_created_by>bcone</sys_created_by>
             <sys_created_on>2022-10-12 16:46:48</sys_created_on>
@@ -641,6 +641,62 @@
             <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_gl_stg" sys_domain="global" view="Default view">98fd8e7c47e2d15096fcb777746d437f</sys_ui_section>
             <sys_updated_by>Priyanshi</sys_updated_by>
             <sys_updated_on>2022-11-19 16:26:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>indicator_open_item_management</element>
+            <position>46</position>
+            <sys_created_by>shreenag.araga@snc</sys_created_by>
+            <sys_created_on>2023-04-24 17:16:29</sys_created_on>
+            <sys_id>b2299997c312e150b6e89a070501310d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_gl_stg" sys_domain="global" view="Default view">98fd8e7c47e2d15096fcb777746d437f</sys_ui_section>
+            <sys_updated_by>shreenag.araga@snc</sys_updated_by>
+            <sys_updated_on>2023-04-24 17:16:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>interest_calculations_indicator</element>
+            <position>47</position>
+            <sys_created_by>shreenag.araga@snc</sys_created_by>
+            <sys_created_on>2023-04-24 17:22:43</sys_created_on>
+            <sys_id>ca9addd7c312e150b6e89a070501310b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_gl_stg" sys_domain="global" view="Default view">98fd8e7c47e2d15096fcb777746d437f</sys_ui_section>
+            <sys_updated_by>shreenag.araga@snc</sys_updated_by>
+            <sys_updated_on>2023-04-24 17:22:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>accounting_clerks_abbreviation</element>
+            <position>48</position>
+            <sys_created_by>shreenag.araga@snc</sys_created_by>
+            <sys_created_on>2023-04-24 17:26:48</sys_created_on>
+            <sys_id>b18b915bc312e150b6e89a070501315a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_gl_stg" sys_domain="global" view="Default view">98fd8e7c47e2d15096fcb777746d437f</sys_ui_section>
+            <sys_updated_by>shreenag.araga@snc</sys_updated_by>
+            <sys_updated_on>2023-04-24 17:26:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vendor_created_date</element>
+            <position>49</position>
+            <sys_created_by>Varun</sys_created_by>
+            <sys_created_on>2023-04-25 07:50:15</sys_created_on>
+            <sys_id>0e216c6f479269105e5faca2026d43b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_gl_stg" sys_domain="global" view="Default view">98fd8e7c47e2d15096fcb777746d437f</sys_ui_section>
+            <sys_updated_by>Varun</sys_updated_by>
+            <sys_updated_on>2023-04-25 07:50:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -2,8 +2,8 @@
     <sys_decision_question action="INSERT_OR_UPDATE">
         <active>true</active>
         <answer>228a1da387c82550a3e3cbb4dabb35e1</answer>
-        <condition table="var__m_sys_decision_input_e90322b38711a11046a6322e0ebb352d">u_type=supplier^u_event=create^EQ<item display_value="Supplier" endquery="false" field="u_type" goto="false" newquery="false" operator="=" or="false" value="supplier"/>
-            <item display_value="Create" endquery="false" field="u_event" goto="false" newquery="false" operator="=" or="false" value="create"/>
+        <condition table="var__m_sys_decision_input_e90322b38711a11046a6322e0ebb352d">type=supplier^event=create^EQ<item display_value="Supplier" endquery="false" field="type" goto="false" newquery="false" operator="=" or="false" value="supplier"/>
+            <item display_value="Create" endquery="false" field="event" goto="false" newquery="false" operator="=" or="false" value="create"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <decision_table display_value="Master Data Policy">e90322b38711a11046a6322e0ebb352d</decision_table>

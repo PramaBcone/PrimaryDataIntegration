@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="vat_registration_number" table="sn_sap_data_int_le_stg">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="value_added_tax_registraction_number" table="sn_sap_data_int_le_stg">
         <active>true</active>
         <array>false</array>
         <attributes>edge_encryption_enabled=true</attributes>
@@ -8,7 +8,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Vat registration number</column_label>
+        <column_label>Value added tax registraction number</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -21,7 +21,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>vat_registration_number</element>
+        <element>value_added_tax_registraction_number</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -47,11 +47,11 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-03-01 11:05:06</sys_created_on>
-        <sys_name>Vat registration number</sys_name>
+        <sys_name>Value added tax registraction number</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name>sys_dictionary_sn_sap_data_int_le_stg_vat_registration_number</sys_update_name>
+        <sys_update_name>sys_dictionary_sn_sap_data_int_le_stg_value_added_tax_registraction_number</sys_update_name>
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2023-04-21 18:01:00</sys_updated_on>
         <table_reference>false</table_reference>

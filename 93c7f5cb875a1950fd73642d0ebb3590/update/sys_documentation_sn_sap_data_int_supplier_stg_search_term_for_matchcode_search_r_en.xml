@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="search_term_for_matchcode_search_r" label="Search term for matchcode search r " language="en" table="sn_sap_data_int_supplier_stg">
+    <sys_documentation element="search_term_for_matchcode_search_1" label="Search term for matchcode search 1" language="en" table="sn_sap_data_int_supplier_stg">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>search_term_for_matchcode_search_r</element>
+            <element>search_term_for_matchcode_search_1</element>
             <help/>
             <hint/>
-            <label>Search term for matchcode search r </label>
+            <label>Search term for matchcode search 1</label>
             <language>en</language>
             <name>sn_sap_data_int_supplier_stg</name>
-            <plural>Search term for matchcode search r s</plural>
+            <plural>Search term for matchcode search 1s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-03-01 11:05:49</sys_created_on>
             <sys_mod_count>1</sys_mod_count>
-            <sys_name>Search term for matchcode search r </sys_name>
+            <sys_name>Search term for matchcode search 1</sys_name>
             <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
             <sys_policy/>
             <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-            <sys_update_name>sys_documentation_sn_sap_data_int_supplier_stg_search_term_for_matchcode_search_r_en</sys_update_name>
+            <sys_update_name>sys_documentation_sn_sap_data_int_supplier_stg_search_term_for_matchcode_search_1en</sys_update_name>
             <sys_updated_by>shreenag.araga@snc</sys_updated_by>
             <sys_updated_on>2023-04-21 18:01:48</sys_updated_on>
             <url/>

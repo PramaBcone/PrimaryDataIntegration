@@ -7,7 +7,7 @@
         <date_format>yyyy-MM-dd</date_format>
         <map display_value="Transform Suppliers">e135c7758743dd1093264085dabb3589</map>
         <reference_value_field/>
-        <source_field>date_on_which_the_record_was_created</source_field>
+        <source_field>vendor_created_date</source_field>
         <source_script><![CDATA[answer = (function transformEntry(source) {
 
 	// Add your code here
@@ -20,7 +20,7 @@
         <sys_created_on>2022-11-09 20:02:43</sys_created_on>
         <sys_id>d34747f58743dd1093264085dabb3556</sys_id>
         <sys_mod_count>3</sys_mod_count>
-        <sys_name>date_on_which_the_record_was_created</sys_name>
+        <sys_name>vendor_created_date</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>

@@ -26,7 +26,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_event</element>
+        <element>event</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>

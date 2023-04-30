@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="po_box" label="Po box" language="en" table="sn_sap_data_int_cc_stg">
+    <sys_documentation element="post_office_box" label="Post office box" language="en" table="sn_sap_data_int_cc_stg">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>po_box</element>
+            <element>post_office_box</element>
             <help/>
             <hint/>
-            <label>Po box</label>
+            <label>Post office box</label>
             <language>en</language>
             <name>sn_sap_data_int_cc_stg</name>
-            <plural>Po boxes</plural>
+            <plural>Post office boxes</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-04-19 17:16:42</sys_created_on>
             <sys_mod_count>1</sys_mod_count>
-            <sys_name>Po box</sys_name>
+            <sys_name>Post office box</sys_name>
             <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
             <sys_policy/>
             <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-            <sys_update_name>sys_documentation_sn_sap_data_int_cc_stg_po_box_en</sys_update_name>
+            <sys_update_name>sys_documentation_sn_sap_data_int_cc_stg_post_office_box_en</sys_update_name>
             <sys_updated_by>shreenag.araga@snc</sys_updated_by>
             <sys_updated_on>2023-04-21 18:00:37</sys_updated_on>
             <url/>

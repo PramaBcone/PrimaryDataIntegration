@@ -11,7 +11,7 @@
         <source_script><![CDATA[answer = (function transformEntry(source) {
 
 	var gdt = new GlideDateTime();
-	gdt.setDisplayValue(source.valid_to_date); // the date field from your source / import. Example: source.date
+	gdt.setDisplayValue(source.valid_to_date); // the date field from your source / import. Example: source.u_date
 	var dateTime = gdt.getDisplayValue(); //this will give you the date/time value
 	return dateTime; // return the value to be put into the target field
 	

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="purchasing_group_iv" table="sn_sap_data_int_supplier_stg">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="purchasing_group_1" table="sn_sap_data_int_supplier_stg">
         <active>true</active>
         <array>false</array>
         <attributes>edge_encryption_enabled=true,import_attribute_name=Purchasing Group (IV)</attributes>
@@ -8,7 +8,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Purchasing group iv</column_label>
+        <column_label>Purchasing group 1</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -21,7 +21,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>purchasing_group_iv</element>
+        <element>purchasing_group_1</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -47,11 +47,11 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Prama</sys_created_by>
         <sys_created_on>2022-12-02 11:45:14</sys_created_on>
-        <sys_name>Purchasing group iv</sys_name>
+        <sys_name>Purchasing group 1</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name>sys_dictionary_sn_sap_data_int_supplier_stg_purchasing_group_iv</sys_update_name>
+        <sys_update_name>sys_dictionary_sn_sap_data_int_supplier_stg_purchasing_group_1</sys_update_name>
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2023-04-21 18:01:44</sys_updated_on>
         <table_reference>false</table_reference>

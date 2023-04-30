@@ -2,7 +2,7 @@
     <element db_object_id="996e31b9c3d1e11068187addd4013174" extends="sys_import_set_row" label="Plant Address" max_length="40" name="sn_sap_data_int_plant_add_stg" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Activating requirements planning" max_length="1" name="activating_requirements_planning" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Address" max_length="10" name="address" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Batch record type of dms used" max_length="1" name="batch_record_type_of_dms_used" type="string"/>
+        <element label="Batch record type of dms used" max_length="1" name="batch_records_type_of_dms_used" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Business place" max_length="4" name="business_place" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Central archiving marker for master record" max_length="1" name="central_archiving_marker_for_master_record" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="City" max_length="25" name="city" type="string"/>
@@ -31,7 +31,7 @@
         <element attributes="edge_encryption_enabled=true" label="Maintenance planning plant" max_length="4" name="maintenance_planning_plant" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="30" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name 2" max_length="30" name="name_2" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Node type supply chain network" max_length="3" name="node_type_supply_chain_network" type="string"/>
+        <element label="Node type supply chain network" max_length="3" name="node_types_supply_chain_network" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Number of days for first reminder expediter" max_length="3" name="number_of_days_for_first_reminder_expediter" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Number of days for po tolerance compress info records su" max_length="3" name="number_of_days_for_po_tolerance_compress_info_records_su" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Number of days for second reminder expediter" max_length="3" name="number_of_days_for_second_reminder_expediter" type="string"/>
@@ -46,7 +46,7 @@
         <element attributes="edge_encryption_enabled=true" label="Rule for determining the sales area for stock transfers" max_length="2" name="rule_for_determining_the_sales_area_for_stock_transfers" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Sales district" max_length="6" name="sales_district" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Sales organization for intercompany billing" max_length="4" name="sales_organization_for_intercompany_billing" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Shipping point receiving point" max_length="4" name="shipping_point_receiving_point" type="string"/>
+        <element label="Shipping point receiving point" max_length="4" name="shipping_point_receivings_point" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Sop plant" max_length="1" name="sop_plant" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Store category to differentiate store dep Store shop" max_length="1" name="store_category_to_differentiate_store_dep_store_shop" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Street and house number" max_length="30" name="street_and_house_number" type="string"/>
@@ -54,7 +54,7 @@
         <element attributes="edge_encryption_enabled=true" label="Superior department store" max_length="4" name="superior_department_store" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Supply region" max_length="10" name="supply_region" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Take regular vendor into account" max_length="1" name="take_regular_vendor_into_account" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Tax indicator plant purchasing" max_length="1" name="tax_indicator_plant_purchasing" type="string"/>
+        <element label="Tax indicator plant purchasing" max_length="1" name="tax_indicators_plant_purchasing" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Tax jurisdiction" max_length="15" name="tax_jurisdiction" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Text name of 1st dunning of vendor declarations" max_length="16" name="text_name_of_1st_dunning_of_vendor_declarations" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Text name of 3rd dunning of vendor declarations" max_length="16" name="text_name_of_3rd_dunning_of_vendor_declarations" type="string"/>

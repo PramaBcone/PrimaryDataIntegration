@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="vas_determination_mode" label="Vas determination mode" language="en" table="sn_sap_data_int_supplier_stg">
+    <sys_documentation element="value_added_service_determination_mode" label="Value added service determination mode" language="en" table="sn_sap_data_int_supplier_stg">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>vas_determination_mode</element>
+            <element>value_added_service_determination_mode</element>
             <help/>
             <hint/>
-            <label>Vas determination mode</label>
+            <label>Value added service determination mode</label>
             <language>en</language>
             <name>sn_sap_data_int_supplier_stg</name>
-            <plural>Vas determination modes</plural>
+            <plural>Value added service determination modes</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-03-01 11:05:52</sys_created_on>
             <sys_mod_count>1</sys_mod_count>
-            <sys_name>Vas determination mode</sys_name>
+            <sys_name>Value added service determination mode</sys_name>
             <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
             <sys_policy/>
             <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-            <sys_update_name>sys_documentation_sn_sap_data_int_supplier_stg_vas_determination_mode_en</sys_update_name>
+            <sys_update_name>sys_documentation_sn_sap_data_int_supplier_stg_value_added_service_determination_mode_en</sys_update_name>
             <sys_updated_by>shreenag.araga@snc</sys_updated_by>
             <sys_updated_on>2023-04-21 18:01:56</sys_updated_on>
             <url/>

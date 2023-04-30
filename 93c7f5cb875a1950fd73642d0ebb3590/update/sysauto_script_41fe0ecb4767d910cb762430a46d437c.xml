@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <business_calendar/>
+        <condition><![CDATA[new GlideRecord('sys_store_app').get('sys_id', '0b4eadd1531113008f12ddeeff7b126d') || new GlideRecord('sys_app').get('sys_id', '0b4eadd1531113008f12ddeeff7b126d');
+]]></condition>
+        <conditional>true</conditional>
+        <entered_time>1970-01-01 00:00:00</entered_time>
+        <name>SAP ECC Schedule</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="Prama ">a618b9cac395211068187addd401318f</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2022-12-01 09:24:43</run_start>
+        <run_time>1970-01-01 20:00:00</run_time>
+        <run_type>monthly</run_type>
+        <script><![CDATA[var gr = new GlideRecord("sn_fcms_intg_source");
+gr.addQuery('sys_id', '7bd6edcf871921508dd710683cbb3560');
+gr.query();
+if (gr.next()) {
+    var job_running = new sn_sap_data_int.IntegrationsUtilsSNC().isNotRunning(gr.getValue("sys_id"));
+    if (job_running) {
+        var inputs = {};
+        inputs['source'] = gr;
+        inputs['job_name'] = gr.name + ' Job';
+		var gr_con = new GlideRecord('sys_alias');
+        gr_con.addQuery('sys_id', gr.connection);
+        gr_con.query();
+        if (gr_con.next()) {
+            inputs['connection_name'] = gr_con;
+        }
+        sn_fd.FlowAPI.getRunner().subflow('sn_sap_data_int.run_job').inBackground().withInputs(inputs).run();
+    }
+}]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>Prama</sys_created_by>
+        <sys_created_on>2022-12-08 09:40:20</sys_created_on>
+        <sys_id>41fe0ecb4767d910cb762430a46d437c</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>SAP ECC Schedule</sys_name>
+        <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
+        <sys_update_name>sysauto_script_41fe0ecb4767d910cb762430a46d437c</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2023-04-28 08:26:21</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

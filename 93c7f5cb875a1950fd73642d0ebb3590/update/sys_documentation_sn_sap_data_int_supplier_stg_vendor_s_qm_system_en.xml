@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="vendor_s_qm_system" label="Vendor s qm system" language="en" table="sn_sap_data_int_supplier_stg">
+    <sys_documentation element="vendor_quality_management_system" label="Vendor Quality Management System" language="en" table="sn_sap_data_int_supplier_stg">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>vendor_s_qm_system</element>
+            <element>vendor_quality_management_system</element>
             <help/>
             <hint/>
-            <label>Vendor s qm system</label>
+            <label>Vendor Quality Management System</label>
             <language>en</language>
             <name>sn_sap_data_int_supplier_stg</name>
-            <plural>Vendor s qm systems</plural>
+            <plural>Vendor Quality Management Systems</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-03-01 11:05:53</sys_created_on>
             <sys_mod_count>1</sys_mod_count>
-            <sys_name>Vendor s qm system</sys_name>
+            <sys_name>Vendor Quality Management System</sys_name>
             <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
             <sys_policy/>
             <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-            <sys_update_name>sys_documentation_sn_sap_data_int_supplier_stg_vendor_s_qm_system_en</sys_update_name>
+            <sys_update_name>sys_documentation_sn_sap_data_int_supplier_stg_vendor_quality_management_system_en</sys_update_name>
             <sys_updated_by>shreenag.araga@snc</sys_updated_by>
             <sys_updated_on>2023-04-21 18:01:58</sys_updated_on>
             <url/>

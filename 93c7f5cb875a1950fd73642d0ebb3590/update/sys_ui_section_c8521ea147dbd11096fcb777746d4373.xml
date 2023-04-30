@@ -603,7 +603,7 @@
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>po_box</element>
+            <element>post_office_box</element>
             <position>43</position>
             <sys_created_by>Varun</sys_created_by>
             <sys_created_on>2023-02-02 05:54:34</sys_created_on>
@@ -785,7 +785,7 @@
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>data_communication_line_no</element>
+            <element>data_communication_line_number</element>
             <position>56</position>
             <sys_created_by>Varun</sys_created_by>
             <sys_created_on>2023-02-02 05:54:34</sys_created_on>
@@ -953,7 +953,7 @@
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>p_o_box_postal_code</element>
+            <element>post_office_box_postal_code</element>
             <position>68</position>
             <sys_created_by>Varun</sys_created_by>
             <sys_created_on>2023-02-02 05:54:34</sys_created_on>

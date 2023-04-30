@@ -3,7 +3,7 @@
         <element attributes="edge_encryption_enabled=true" label="Accounts receivable pledging active" max_length="40" name="accounts_receivable_pledging_active" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Activate account assignment derivation in funds management" max_length="40" name="activate_account_assignment_derivation_in_funds_management" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Activate update in funds management" max_length="40" name="activate_update_in_funds_management" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Additional settings variant for bus Area financial statemnts" max_length="40" name="additional_settings_variant_for_bus_area_financial_statemnts" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Additional settings variant for bus area financial statements" max_length="40" name="additional_settings_variant_for_bus_area_financial_statemnts" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="address" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Allocation indicator" max_length="40" name="allocation_indicator" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Cash management and forecast company code" max_length="40" name="cash_management_and_forecast_company_code" type="string"/>
@@ -30,15 +30,15 @@
         <element attributes="edge_encryption_enabled=true" label="Fiscal year variant" max_length="40" name="fiscal_year_variant" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Foreign currency translation for tax items" max_length="40" name="foreign_currency_translation_for_tax_items" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Foreign trade import data control in mm purchase orders" max_length="40" name="foreign_trade_import_data_control_in_mm_purchase_orders" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Foreign trade import data copying control for gr" max_length="40" name="foreign_trade_import_data_copying_control_for_gr" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Foreign trade import data copying control for goods receipt" max_length="40" name="foreign_trade_import_data_copying_control_for_gr" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Foreign trade screen ctrl of imp Data f Mm goods rececipt" max_length="40" name="foreign_trade_screen_ctrl_of_imp_data_f_mm_goods_rececipt" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Funds center can be assigned to an account in hr from" max_length="40" name="funds_center_can_be_assigned_to_an_account_in_hr_from" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Funds reservation field status var" max_length="40" name="funds_reservation_field_status_var" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="G l account authorization check in contracts" max_length="40" name="g_l_account_authorization_check_in_contracts" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="G l account authorization check in inventory management" max_length="40" name="g_l_account_authorization_check_in_inventory_management" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="G l account authorization check in po scheduling agreement" max_length="40" name="g_l_account_authorization_check_in_po_scheduling_agreement" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="G l account authorization check in purchase requisitions" max_length="40" name="g_l_account_authorization_check_in_purchase_requisitions" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="G l account authorization check in shopping cart" max_length="40" name="g_l_account_authorization_check_in_shopping_cart" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="General ledger account authorization check in contracts" max_length="40" name="g_l_account_authorization_check_in_contracts" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="General ledger account authorization check in inventory management" max_length="40" name="g_l_account_authorization_check_in_inventory_management" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="General ledger account authorization check in po scheduling agreement" max_length="40" name="g_l_account_authorization_check_in_po_scheduling_agreement" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="General ledger account authorization check in purchase requisitions" max_length="40" name="g_l_account_authorization_check_in_purchase_requisitions" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="General ledger account authorization check in shopping cart" max_length="40" name="g_l_account_authorization_check_in_shopping_cart" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Hide entry in value help" max_length="40" name="hide_entry_in_value_help" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Indicator base amount for tax is net of discount" max_length="40" name="indicator_base_amount_for_tax_is_net_of_discount" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Indicator business area financial statements required" max_length="40" name="indicator_business_area_financial_statements_required" type="string"/>

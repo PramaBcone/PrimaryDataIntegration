@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="lfa1_extension_with_new_fields_seasonal_procurement_ek" label="Lfa1 extension with new fields seasonal procurement ek " language="en" table="sn_sap_data_int_supplier_stg">
+    <sys_documentation element="lfa1_extension_with_new_fields_seasonal_procurement_1" label="Lfa1 extension with new fields seasonal procurement 1" language="en" table="sn_sap_data_int_supplier_stg">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>lfa1_extension_with_new_fields_seasonal_procurement_ek</element>
+            <element>lfa1_extension_with_new_fields_seasonal_procurement_1</element>
             <help/>
             <hint/>
-            <label>Lfa1 extension with new fields seasonal procurement ek </label>
+            <label>Lfa1 extension with new fields seasonal procurement 1</label>
             <language>en</language>
             <name>sn_sap_data_int_supplier_stg</name>
-            <plural>Lfa1 extension with new fields seasonal procurement ek s</plural>
+            <plural>Lfa1 extension with new fields seasonal procurement 1s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-03-01 11:05:44</sys_created_on>
             <sys_mod_count>1</sys_mod_count>
-            <sys_name>Lfa1 extension with new fields seasonal procurement ek </sys_name>
+            <sys_name>Lfa1 extension with new fields seasonal procurement 1</sys_name>
             <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
             <sys_policy/>
             <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-            <sys_update_name>sys_documentation_sn_sap_data_int_supplier_stg_lfa1_extension_with_new_fields_seasonal_procurement_ek_en</sys_update_name>
+            <sys_update_name>sys_documentation_sn_sap_data_int_supplier_stg_lfa1_extension_with_new_fields_seasonal_procurement_1en</sys_update_name>
             <sys_updated_by>shreenag.araga@snc</sys_updated_by>
             <sys_updated_on>2023-04-21 18:01:37</sys_updated_on>
             <url/>

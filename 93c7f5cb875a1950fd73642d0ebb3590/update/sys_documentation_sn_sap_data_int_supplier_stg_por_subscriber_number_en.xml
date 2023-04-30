@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="por_subscriber_number" label="Por subscriber number" language="en" table="sn_sap_data_int_supplier_stg">
+    <sys_documentation element="payment_order_subscriber_number" label="Payment order subscriber number" language="en" table="sn_sap_data_int_supplier_stg">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>por_subscriber_number</element>
+            <element>payment_order_subscriber_number</element>
             <help/>
             <hint/>
-            <label>Por subscriber number</label>
+            <label>Payment order subscriber number</label>
             <language>en</language>
             <name>sn_sap_data_int_supplier_stg</name>
-            <plural>Por subscriber numbers</plural>
+            <plural>Payment order subscriber numbers</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-03-01 11:05:47</sys_created_on>
             <sys_mod_count>1</sys_mod_count>
-            <sys_name>Por subscriber number</sys_name>
+            <sys_name>Payment order subscriber number</sys_name>
             <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
             <sys_policy/>
             <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-            <sys_update_name>sys_documentation_sn_sap_data_int_supplier_stg_por_subscriber_number_en</sys_update_name>
+            <sys_update_name>sys_documentation_sn_sap_data_int_supplier_stg_payment_order_subscriber_number_en</sys_update_name>
             <sys_updated_by>shreenag.araga@snc</sys_updated_by>
             <sys_updated_on>2023-04-21 18:01:42</sys_updated_on>
             <url/>

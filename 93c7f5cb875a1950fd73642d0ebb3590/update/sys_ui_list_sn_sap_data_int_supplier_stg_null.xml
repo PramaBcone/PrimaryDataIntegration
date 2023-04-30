@@ -47,7 +47,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>account_number_of_the_alternative_payee_fm</element>
+            <element>account_number_of_the_alternative_payee_1</element>
             <list_id display_value="sn_sap_data_int_supplier_stg" element="NULL" name="sn_sap_data_int_supplier_stg" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2e9af9bbc391a11068187addd401317f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
@@ -107,7 +107,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>account_number_of_vendor_or_creditor_eq</element>
+            <element>account_number_of_vendor_or_creditor_2</element>
             <list_id display_value="sn_sap_data_int_supplier_stg" element="NULL" name="sn_sap_data_int_supplier_stg" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2e9af9bbc391a11068187addd401317f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
@@ -137,7 +137,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>accounting_clerk_s_fax_number_at_the_customer_vendor</element>
+            <element>accounting_clerk_fax_number_at_the_customer_vendor</element>
             <list_id display_value="sn_sap_data_int_supplier_stg" element="NULL" name="sn_sap_data_int_supplier_stg" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2e9af9bbc391a11068187addd401317f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>

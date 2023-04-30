@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="contry_version_new_fields_dates_min_wage_owner_details" table="sn_sap_data_int_supplier_stg">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="country_version_new_fields_dates_minimum_wage_owner_details" table="sn_sap_data_int_supplier_stg">
         <active>true</active>
         <array>false</array>
         <attributes>edge_encryption_enabled=true,import_attribute_name=Contry version new fields - dates min.wage &amp; owner details</attributes>
@@ -8,7 +8,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Contry version new fields dates min Wage owner details</column_label>
+        <column_label>Country version new fields dates minimum wage owner details</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -21,7 +21,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>contry_version_new_fields_dates_min_wage_owner_details</element>
+        <element>country_version_new_fields_dates_minimum_wage_owner_details</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -47,11 +47,11 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Prama</sys_created_by>
         <sys_created_on>2022-12-02 11:45:13</sys_created_on>
-        <sys_name>Contry version new fields dates min Wage owner details</sys_name>
+        <sys_name>Country version new fields dates minimum wage owner details</sys_name>
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name>sys_dictionary_sn_sap_data_int_supplier_stg_contry_version_new_fields_dates_min_wage_owner_details</sys_update_name>
+        <sys_update_name>sys_dictionary_sn_sap_data_int_supplier_stg_country_version_new_fields_dates_minimum_wage_owner_details</sys_update_name>
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2023-04-21 18:01:23</sys_updated_on>
         <table_reference>false</table_reference>

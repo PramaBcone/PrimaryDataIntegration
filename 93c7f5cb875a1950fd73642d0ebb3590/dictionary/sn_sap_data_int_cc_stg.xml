@@ -17,7 +17,7 @@
         <element attributes="edge_encryption_enabled=true" label="Co cca overhead key" max_length="40" name="co_cca_overhead_key" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Created on" max_length="40" name="created_on" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Currency key" max_length="40" name="currency_key" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Data communication line no" max_length="40" name="data_communication_line_no" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data communication line number" max_length="40" name="data_communication_line_no" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Department" max_length="40" name="department" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="District" max_length="40" name="district" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Entered by" max_length="40" name="entered_by" type="string"/>
@@ -29,7 +29,7 @@
         <element attributes="edge_encryption_enabled=true" label="Function of cost center" max_length="41" name="function_of_cost_center" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Indicator for allowed allocation methods" max_length="40" name="indicator_for_allowed_allocation_methods" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Indicator for recording consumption quantities" max_length="40" name="indicator_for_recording_consumption_quantities" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Indicator Object is statistical" max_length="40" name="indicator_object_is_statistical" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Indicator object is statistical" max_length="40" name="indicator_object_is_statistical" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Jib jibe class" max_length="40" name="jib_jibe_class" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Jib jibe subclass a" max_length="40" name="jib_jibe_subclass_a" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Joint venture" max_length="40" name="joint_venture" type="string"/>
@@ -75,8 +75,8 @@
         <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="title" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Usage of the condition table" max_length="40" name="usage_of_the_condition_table" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="User responsible" max_length="40" name="user_responsible" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Valid from date" max_length="40" name="valid_from_date" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" label="Valid to date" max_length="40" name="valid_to_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Valid from date" max_length="40" name="valid_from_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Valid to date" max_length="40" name="valid_to_date" type="string"/>
         <index name="index">
             <element name="erp_source"/>
         </index>

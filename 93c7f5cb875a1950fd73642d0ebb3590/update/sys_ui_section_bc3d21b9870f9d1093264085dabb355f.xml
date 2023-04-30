@@ -113,7 +113,7 @@
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>date_on_which_the_record_was_created</element>
+            <element>vendor_created_date</element>
             <position>8</position>
             <sys_created_by>Prama</sys_created_by>
             <sys_created_on>2022-11-09 13:29:04</sys_created_on>
@@ -211,7 +211,7 @@
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>po_box</element>
+            <element>post_office_box</element>
             <position>15</position>
             <sys_created_by>Prama</sys_created_by>
             <sys_created_on>2022-11-09 13:29:04</sys_created_on>
@@ -533,7 +533,7 @@
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>swift_bic_for_international_payment</element>
+            <element>swift_or_bic_for_international_payment</element>
             <position>38</position>
             <sys_created_by>Anusha</sys_created_by>
             <sys_created_on>2023-03-10 11:11:48</sys_created_on>

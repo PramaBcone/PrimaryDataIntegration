@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="cnae" table="sn_sap_data_int_supplier_stg">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="Cnae" table="sn_sap_data_int_supplier_stg">
         <active>true</active>
         <array>false</array>
-        <attributes>edge_encryption_enabled=true,import_attribute_name=CNAE</attributes>
+        <attributes>edge_encryption_enabled=true,import_attribute_name=Cnae</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
@@ -21,7 +21,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>cnae</element>
+        <element>Cnae</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -51,7 +51,7 @@
         <sys_package display_value="Primary Data Integration with SAP" source="sn_sap_data_int">93c7f5cb875a1950fd73642d0ebb3590</sys_package>
         <sys_policy/>
         <sys_scope display_value="Primary Data Integration with SAP">93c7f5cb875a1950fd73642d0ebb3590</sys_scope>
-        <sys_update_name>sys_dictionary_sn_sap_data_int_supplier_stg_cnae</sys_update_name>
+        <sys_update_name>sys_dictionary_sn_sap_data_int_supplier_stg_Cnae</sys_update_name>
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2023-04-21 18:01:22</sys_updated_on>
         <table_reference>false</table_reference>
